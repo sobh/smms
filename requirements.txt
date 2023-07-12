@@ -1,0 +1,7 @@
+coverage==5.5
+deprecation==2.1.0
+eyed3==0.9.7
+filetype==1.2.0
+packaging==23.1
+slugify==0.0.1
+toml==0.10.2
